@@ -3,3 +3,5 @@ Adding content to my 2nd file in my remote repo.
 Fixing a bug in my source code
 
 Developer 2 has added some code from his local repository.
+
+Developer 1 has added some more code to fix the bug.
