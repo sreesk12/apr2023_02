@@ -1,1 +1,3 @@
 Adding content to my 2nd file in my remote repo.
+
+Fixing a bug in my source code
